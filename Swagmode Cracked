@@ -1,6 +1,10 @@
+--Skids.
+
 ModIDS = {
 
-[818022641] = true,
+[400553137] = true, --Fredd
+[2063872356]  = true, --toti
+[515127630]  = true, -- liortyu
 }
 
 return ModIDS
