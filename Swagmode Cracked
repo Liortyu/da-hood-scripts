@@ -1,9 +1,9 @@
 
 ModIDS = {
 
-[400553137] = true, --Fredd
+[515127630] = true, --Fredd
 [2063872356]  = true, --toti
-
+[400553137] = true, --Fredd
 }
 
 return ModIDS
