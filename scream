@@ -1,5 +1,4 @@
 --skid gui 
---leaked by liortyu xdxd
  --hola
 local ScreenGui = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
